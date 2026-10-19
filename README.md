@@ -65,3 +65,4 @@ The test images will be saved in `/backend/test-images/demo-set/`.
   2. Watchlist and global Interpol / Law Enforcement blacklist database checks.
   3. Server-side 3D passive liveness detection to prevent video replay / photo spoofing.
 # ai-ased-fake-idetity-documet-screenig-system-
+# ai-ased-fake-idetity-documet-screenig-system-
