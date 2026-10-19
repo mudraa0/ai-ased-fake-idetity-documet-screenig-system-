@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Environment and Secrets
+.env
+.env.*
+*.env
+backend/.env
+!.env.example
+!backend/.env.example
+
+# Build outputs
+dist/
+dist-ssr/
+
+# Runtime data & uploads
+/backend/uploads/
+/backend/data/
+
+# OS and logs
+.DS_Store
+*.log
