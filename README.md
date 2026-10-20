@@ -67,3 +67,4 @@ The test images will be saved in `/backend/test-images/demo-set/`.
 # ai-ased-fake-idetity-documet-screenig-system-
 # ai-ased-fake-idetity-documet-screenig-system-
 # ai-ased-fake-idetity-documet-screenig-system-
+# fire-x
